@@ -101,6 +101,30 @@ A=B.
 
 It requires that the relation connecting them can preserve what matters under transformation and return.
 
+### 2.1 Source, Sink, and the Perspective Continuum
+
+The originating Black Mirror language gives this grammar a deliberately compact image: nature is made of basic building blocks — a **source–sink field**, a **holy trinity**, **up–down–through**, and the **yin–yang circle**. These should be read here as relational figures, not as a catalogue of physical primitives. Each figure names a pair or polarity together with a mediating path.
+
+Within their recurring or pendular movement, these forms generate a continuum of perspectives. Geometry and axiom are not opposed: geometry gives the shape of possible transformation, while axiom gives the commitments by which a transformation can be recognized, tested, or refused. Natural freedom is located in their relation rather than in an isolated choice made outside nature.
+
+\[
+\boxed{
+\text{perspective continuum}
+=
+\text{geometry}
+\leftrightarrow
+\text{axiom}
+\leftrightarrow
+\text{natural choice}.
+}
+\]
+
+The phrase **ever inward** names a complementary direction. Translation may extend across a network, but it must also return to the local person, relation, and embodied situation from which its meaning arose. This return prevents an abstract global view from claiming to contain the whole.
+
+Simple protocols can consequently become elements of moral order when they preserve reciprocal translation among culture and community. Their significance is not their viral reach alone. Fundamental interactions may circulate as memes, but shared meaning matters when it carries people beyond internet silos into physical harmony and allows groups to resolve into temporary **partitions of temporal reason** rather than permanent representational camps.
+
+The remainder of this paper develops this image at progressively more formal, social, and technological levels.
+
 ---
 
 ## 3. Natural Choice as Relational Form
@@ -539,6 +563,10 @@ Thus:
 \text{Technology should not perfect the representation of isolated minds; it should lower the cost of truthful translation between them.}
 }
 \]
+
+The Black Mirror can therefore be imagined as a **mirrored looking device**: not an instrument that fixes a final image of a person, but one through which people feel their way from transaction toward translation. Its task is to make the degree and quality of mutual intent available to verification through contextual synchrony, independent paths, and return — never through a single permanent score.
+
+A shared horizon can then project otherwise internal orientation into physical space. The point/line/ball/hair imagery developed below names this movement: the ball is a field of possible orientations, and its “hair” is relational orientation data projected through a network rather than a separate object possessed by any individual node. References to quantum light–matter are, in this paper, only a speculative image for a relational physical network; they are not a claim that the proposed architecture derives quantum physics.
 
 ---
 
@@ -1101,7 +1129,7 @@ Such imagery can motivate mathematical constructions involving tangent fields, s
 
 ## 22. Black Holes, Wormholes, and Physical Metaphor
 
-The project uses black-hole and wormhole language to express two-sided temporal and relational structures. One intuition is that past and future “world sheets” can be related through a new seam rather than by identifying a black hole with a static singular endpoint.
+The project uses black-hole and wormhole language to express two-sided temporal and relational structures. One intuition is that past and future “world sheets” can be triangulated into relation with one another through a new seam, rather than identifying a black hole with a static singular endpoint. In this metaphor, points on the past and future sheets are not collapsed into sameness; they are related to a new relational presentation that can preserve and distinguish their connection.
 
 This is useful as a conceptual image for closure:
 
@@ -1115,7 +1143,7 @@ This is useful as a conceptual image for closure:
 
 Likewise, point/line or self/other can be treated as relative poles connected through a seam whose orientation reverses under viewpoint change.
 
-However, no claim about actual black-hole geometry, wormholes, quantum gravity, the Riemann hypothesis, or quantum light-matter networks follows merely from these analogies. Those claims require independent equations, correspondence with established theory, and empirical consequences.
+However, no claim about actual black-hole geometry, wormholes, quantum gravity, the Riemann hypothesis, or quantum light-matter networks follows merely from these analogies. Those claims require independent equations, correspondence with established theory, and empirical consequences. The source passage that motivates this image ends in an unfinished physical formulation; this paper intentionally preserves its relational insight without completing or presenting that fragment as physics.
 
 The role of the physical imagery in the present paper is architectural: it helps express the distinction between isolated endpoints and invariant relations under transformation.
 
@@ -1157,6 +1185,8 @@ H\rightarrow A\rightarrow H'',
 H''\sim_C H.
 \]
 
+The pairing of AGI and the UFO/alien question is operationally useful precisely because it is disjoint: one asks about possible machine consciousness, the other about possible dialogue with a nonhuman intelligence. It gives a philosophical test for virtuous goals — whether a system can seek contact and cooperation without demanding that the other first become a copy of itself.
+
 This motivates a triangulation
 
 \[
@@ -1171,7 +1201,7 @@ True contact, in this sense, is not the appearance of the other. It is mutually 
 
 ## 24. From Interactive Proof to Direct Presence
 
-Contemporary digital trust architectures often rely on proofs, credentials, blockchain consensus, tokenized compute, or reputation systems. These are useful, but they remain vulnerable to the Black Mirror error when the proof artifact becomes more authoritative than the relation it was intended to establish.
+Contemporary digital trust architectures often rely on proofs, credentials, blockchain consensus, tokenized compute, or reputation systems. These are useful, but they remain vulnerable to the Black Mirror error when the proof artifact becomes more authoritative than the relation it was intended to establish. The proposal therefore draws on the unification of interactive proof in AGI and blockchain while refusing to treat either proof systems or tokenized compute as the final social layer.
 
 The closure architecture aims to move from
 
@@ -1226,7 +1256,7 @@ but
 \text{What new relations can the system make mutually intelligible and actionable without collapsing either side?}
 \]
 
-This reframes intelligence as the shape in which information is held in relation, rather than as the volume of isolated computation alone.
+This reframes intelligence as the shape in which information is held in relation, rather than as the volume of isolated computation alone. The practical question is whether intangibly verified information can better balance physical needs and mental desires while shifting constructive-compute primacy toward the coevolution of life. That is a design and ethical question, not a demonstrated result.
 
 ---
 

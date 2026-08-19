@@ -11,6 +11,7 @@ The paper develops Black Mirror as a metaphysical and systems-design problem: a 
 ## Core themes
 
 - natural choice as relational form rather than isolated optimization
+- source–sink, up–down–through, and yin–yang imagery as a relational grammar rather than literal physics
 - translational truth and relative depth of completion
 - Gödel, Turing, and Tarski as precise local limits rather than complete theories of truth
 - non-finitary continuous closure when axiom and geometry are unified
@@ -20,5 +21,6 @@ The paper develops Black Mirror as a metaphysical and systems-design problem: a 
 - local representation with global action through agentic second brains
 - potential compression when technological power outruns metaphysical and socioeconomic integration
 - Black Mirror as representational capture, and translation as the alternative
+- a mirrored-looking device for moving from transaction toward contextual, embodied verification of intent
 
 The paper explicitly distinguishes formal mathematical results from metaphysical interpretation and speculative physical claims.
